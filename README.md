@@ -1,7 +1,5 @@
 # RV32I CPU Architecture
 
-This document describes the datapath and control unit routing for a 32-bit RISC-V (RV32I) single-cycle processor.
-
 ## Core Modules
 
 *   **PC (Program Counter):** Holds the current instruction address. Updates on the clock edge.
